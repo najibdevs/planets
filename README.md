@@ -28,7 +28,7 @@ Earth and Mars hold significant importance in our understanding of the universe.
 4. Click on the provided links to navigate between the two planets.
 
 ## Live Demo
-[View the live project here]()
+[View the live project here](https://planets-chi.vercel.app/)
 
 
 ## License
